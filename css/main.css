@@ -1353,10 +1353,10 @@ blockquote {
 }
 
 .skill-percentage.skill-1 {
-  width: 95%;
+  width: 90%;
 }
 .skill-percentage.skill-2 {
-  width: 65%;
+  width: 80%;
 }
 .skill-percentage.skill-3 {
   width: 80%;
@@ -1365,7 +1365,7 @@ blockquote {
   width: 90%;
 }
 .skill-percentage.skill-5 {
-  width: 85%;
+  width: 70%;
 }
 .skill-percentage.skill-6 {
   width: 70%;
@@ -1377,10 +1377,10 @@ blockquote {
   width: 75%;
 }
 .skill-percentage.skill-9 {
-  width: 100%;
+  width: 87%;
 }
 .skill-percentage.skill-10 {
-  width: 80%;
+  width: 85%;
 }
 /* /Skills */
 
@@ -3440,10 +3440,7 @@ blockquote p {
     line-height: 34px;
   }
 }
-/* /v2.0 */
 
-/* v2.2 - 26 October 2018 */
-/* Header Copyrights */
 .header .copyrights {
   width: 100%;
   position: absolute;
@@ -3456,5 +3453,3 @@ blockquote p {
   text-align: center;
   color: #aeaeae;
 }
-/* /Header Copyrights */
-/* /v2.2 - 26 October 2018 */
